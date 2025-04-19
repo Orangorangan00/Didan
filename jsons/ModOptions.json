@@ -3,5 +3,6 @@
   "constants":{
     "religionLimitBase":6,
     "religionLimitMultiplier":0,
+    "maxXPfromBarbarians":2147483647,
      }
 }
