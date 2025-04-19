@@ -1,0 +1,15 @@
+{
+   "name": "GlobalUniques",
+   "uniques": ["[+10] HP when healing <in [Foreign Land] tiles>",
+   //City states bonus 
+   "[+50]% Strength <for [City-States] Civilizations> <vs [AI player] units>",
+     "[+50]% [Food] [in all cities] <for [City-States] Civilizations>",
+      "[25]% Food is carried over after population increases [in all cities] <for [City-States] Civilizations>",
+   //Maintenance adjust
+   "[+5]% maintenance on road & railroads <starting from the [Youkai Expansion Project]>",
+        "[+5]% maintenance on road & railroads <starting from the [Edo period]>",
+        "[+5]% maintenance on road & railroads <starting from the [Meiji era]>",
+        "[+5]% maintenance on road & railroads <starting from the [Modern era]>",
+        "[+5]% maintenance on road & railroads <starting from the [Present era]>",
+	    "Cities are razed [2] times as fast"],
+}

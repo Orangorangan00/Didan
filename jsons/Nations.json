@@ -1,0 +1,12 @@
+[
+		//Barbarian
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+        "innerColor": [185,12,12],
+		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
+		    "[+250]% Strength <vs [AI player] units>", 
+		    "[+200]% Strength <vs [City-State] units>",
+		    "[+33]% Strength <for [Land] units> <when below [50] HP>"]
+	}
+] 
